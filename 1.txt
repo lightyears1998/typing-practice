@@ -1,0 +1,18 @@
+12345 67890
+
+== - + * /
+_
+
+() [] {}
+
+: "" ''
+
+// /* */
+
+cv cv cv cv vc vc vc vc
+io io io io oi oi oi oi
+er er er er re re re re
+nm nm nm nm mn mn mn mn
+
+// Best Record:
+// Current Record:

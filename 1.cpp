@@ -20,3 +20,6 @@ int main()
 	for (int i = 1; i <= 1e8; i++);
 	cout << (double)clock() / CLOCKS_PER_SEC << endl;
 }
+
+// Best Record:
+// Current Record:
